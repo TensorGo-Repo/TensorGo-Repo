@@ -1,22 +1,31 @@
-<div style="display:flex; align-items:flex-start; justify-content:space-between;">
+<table width="100%">
+<tr>
+<td align="left" width="70%">
 
 <h1>TensorGo</h1>
+
+</td>
+<td align="right" width="30%">
 
 <div style="
   background-color:#e6f7f0;
   border-radius:8px;
   padding:12px 16px;
-  min-width:220px;
-  margin-left:20px;
   font-size:14px;
+  text-align:left;
 ">
-  <strong>Quick Links</strong><br><br>
-  🔗 <a href="https://url-one.com">URL One</a><br>
-  🔗 <a href="https://url-two.com">URL Two</a><br>
-  🔗 <a href="https://url-three.com">URL Three</a>
-</div>
+
+<strong>Quick Links</strong><br><br>
+🔗 <a href="https://url-one.com">URL One</a><br>
+🔗 <a href="https://url-two.com">URL Two</a><br>
+🔗 <a href="https://url-three.com">URL Three</a>
 
 </div>
+
+</td>
+</tr>
+</table>
+
 
 ## About TensorGo
 
