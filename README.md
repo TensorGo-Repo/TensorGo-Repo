@@ -1,29 +1,23 @@
-<table width="100%" cellpadding="0" cellspacing="0">
-<tr>
-<td width="100%">
-
-<div style="
-  display:flex;
-  justify-content:space-between;
-  align-items:center;
-  background-color:#e6f7f0;
-  border-radius:8px;
-  padding:16px 20px;
-">
-
-<h1 style="margin:0;">TensorGo</h1>
-
-<div style="font-size:14px; text-align:right;">
-  <strong>Quick Links</strong><br><br>
-  🔗 <a href="https://url-one.com">URL One</a><br>
-  🔗 <a href="https://url-two.com">URL Two</a><br>
-  🔗 <a href="https://url-three.com">URL Three</a>
-</div>
-
-</div>
-
-</td>
-</tr>
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr>
+    <td bgcolor="#e6f7f0" style="padding:16px 20px;">
+      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td align="left" valign="middle">
+            <h1 style="margin:0;">TensorGo</h1>
+          </td>
+          <td align="right" valign="middle">
+            <div style="font-size:14px; line-height:1.6;">
+              <strong>Quick Links</strong><br>
+              <a href="https://url-one.com">URL One</a><br>
+              <a href="https://url-two.com">URL Two</a><br>
+              <a href="https://url-three.com">URL Three</a>
+            </div>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
 </table>
 
 
