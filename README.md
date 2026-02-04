@@ -71,17 +71,15 @@ If you can use it responsibly, you’re welcome to use it.
 
 ### How to Get Access
 
-The model is readily available.
+The model is available for immediate evaluation and use.
 
-To request access:
+**Access Request Process**
 
-1. Send us an email with a brief description of:  
-   • Who you are  
-   • What you plan to use the model for  
-2. Our team will review and respond promptly  
-3. Access will be provided immediately after confirmation  
-
-**openweights@tensorgo.com**
+1. Send an email to **openweights@tensorgo.com** including:
+   - A brief introduction (individual or organization)
+   - Your intended use case for the model
+2. Our team will review your request and respond promptly
+3. Access will be granted upon confirmation
 
 ---
 
