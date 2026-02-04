@@ -93,20 +93,11 @@ A next-generation AI avatar system enabling human-like interaction, multimodal c
 - Research, education, and experimentation  
 - Custom AI deployments for regulated industries  
 
----
-
 ## Contact & Access
 
 For enterprise API access, partnerships, or custom solutions:
 
 **openweights@tensorgo.com**
-
----
-
-## License & Usage
-
-Usage terms, licensing details, and deployment guidelines will be shared during access confirmation.  
-All users are expected to follow responsible AI practices.
 
 ---
 
