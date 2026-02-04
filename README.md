@@ -5,9 +5,9 @@
     </td>
     <td align="right" style="white-space:nowrap; font-size:14px;">
       <strong>APIs:</strong>
-      <a href="https://url-one.com">Speech-to-Text (STT)</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-      <a href="https://url-two.com">Text-to-Speech (TTS)</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-      <a href="https://url-three.com">HumAIn Avatar</a>
+      <a href="https://github.com/TensorGo-Repo#1-speech-to-text-stt">Speech-to-Text (STT)</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+      <a href="https://github.com/TensorGo-Repo#2-text-to-speech-tts">Text-to-Speech (TTS)</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+      <a href="https://github.com/TensorGo-Repo#3-humains-avatar">HumAIn Avatar</a>
     </td>
   </tr>
 </table>
