@@ -91,13 +91,16 @@ TensorGo provides production-ready, enterprise-grade APIs designed for scalabili
 
 ### Available APIs
 
-#### 1. Speech-to-Text (STT) <a href=https://github.com/TensorGo-Repo#how-to-get-access>Request Access</a>
+#### 1. Speech-to-Text (STT) 
+<a href=https://github.com/TensorGo-Repo#how-to-get-access>Request Access</a>
 High-accuracy speech recognition optimized for real-time and batch processing across multiple domains and environments.
 
-#### 2. Text-to-Speech (TTS) <a href=https://github.com/TensorGo-Repo#how-to-get-access>Request Access</a>
+#### 2. Text-to-Speech (TTS)
+<a href=https://github.com/TensorGo-Repo#how-to-get-access>Request Access</a>
 Natural, expressive, and low-latency speech synthesis suitable for assistants, media, accessibility, and enterprise workflows.
 
-#### 3. HumAIn's Avatar <a href=https://github.com/TensorGo-Repo#how-to-get-access>Request Access</a>
+#### 3. HumAIn's Avatar
+<a href=https://github.com/TensorGo-Repo#how-to-get-access>Request Access</a>
 A next-generation AI avatar system enabling human-like interaction, multimodal communication, and conversational intelligence at scale.
 
 ---
