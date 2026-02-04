@@ -7,7 +7,7 @@
       <strong>APIs:</strong>
       <a href="https://github.com/TensorGo-Repo#1-speech-to-text-stt">Speech-to-Text (STT)</a>&nbsp;&nbsp;|&nbsp;&nbsp;
       <a href="https://github.com/TensorGo-Repo#2-text-to-speech-tts">Text-to-Speech (TTS)</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-      <a href="https://github.com/TensorGo-Repo#3-humains-avatar">HumAIn Avatar</a>
+      <a href="https://github.com/TensorGo-Repo#3-humains-avatar">HumAIn's Avatar</a>
     </td>
   </tr>
 </table>
