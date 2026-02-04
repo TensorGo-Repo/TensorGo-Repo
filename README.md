@@ -1,22 +1,16 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <tr>
-    <td bgcolor="#e6f7f0" style="padding:16px;">
-      <table width="100%" cellpadding="0" cellspacing="0">
-        <tr>
-          <td>
-            <h1 align="left" style="margin:0;">TensorGo</h1>
-          </td>
-          <td align="right">
-            <strong>Quick Links</strong><br>
-            <a href="https://url-one.com">URL One</a><br>
-            <a href="https://url-two.com">URL Two</a><br>
-            <a href="https://url-three.com">URL Three</a>
-          </td>
-        </tr>
-      </table>
+    <td align="left">
+      <h1 style="margin:0;">TensorGo</h1>
+    </td>
+    <td align="right" style="white-space:nowrap; font-size:14px;">
+      <a href="https://url-one.com">URL One</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+      <a href="https://url-two.com">URL Two</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+      <a href="https://url-three.com">URL Three</a>
     </td>
   </tr>
 </table>
+
 
 
 
