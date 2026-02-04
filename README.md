@@ -3,10 +3,13 @@
     <td bgcolor="#e6f7f0" style="padding:16px 20px;">
       <table width="100%" cellpadding="0" cellspacing="0" border="0">
         <tr>
-          <td align="left" valign="middle">
+          <!-- LEFT: TITLE -->
+          <td align="left" valign="middle" width="50%">
             <h1 style="margin:0;">TensorGo</h1>
           </td>
-          <td align="right" valign="middle">
+
+          <!-- RIGHT: LINKS -->
+          <td align="right" valign="middle" width="50%">
             <div style="font-size:14px; line-height:1.6;">
               <strong>Quick Links</strong><br>
               <a href="https://url-one.com">URL One</a><br>
@@ -19,6 +22,8 @@
     </td>
   </tr>
 </table>
+
+
 
 
 
