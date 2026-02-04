@@ -12,7 +12,7 @@ With a team of experienced AI researchers, engineers, and domain experts, Tensor
 
 ## Introducing HumAIn’s Open-Weight Model for Enterprise Scale Intelligence
 
-We’re releasing an open-weight model from the HumAIns stack.
+We’re releasing an open-weight model from the HumAIn's stack.
 
 This release is part of our belief that progress in AI should be shared, tested in the open, and improved through real-world use not locked behind closed doors.
 
@@ -20,7 +20,7 @@ The model is now available for anyone to explore, evaluate, and build with.
 
 ### What This Is
 
-The HumAIns open-weight model is designed to support real-time, conversational, and execution-oriented intelligence. It can be used for experimentation, research, education, product development, and applied use cases where understanding, memory, and action matter.
+The HumAIn's open-weight model is designed to support real-time, conversational, and execution-oriented intelligence. It can be used for experimentation, research, education, product development, and applied use cases where understanding, memory, and action matter.
 
 This is not a demo. This is a production-grade model, shared openly so the community can help shape what comes next.
 
@@ -35,7 +35,7 @@ By releasing open weights, we want to:
 • Gather feedback from diverse use cases and environments  
 • Improve the model faster through community insight  
 
-Your feedback directly influences how HumAIns evolve.
+Your feedback directly influences how HumAIn's evolve.
 
 ### Who Can Use It
 
@@ -79,7 +79,7 @@ High-accuracy speech recognition optimized for real-time and batch processing ac
 #### 2. Text-to-Speech (TTS)
 Natural, expressive, and low-latency speech synthesis suitable for assistants, media, accessibility, and enterprise workflows.
 
-#### 3. HumAIn Avatar
+#### 3. HumAIn's Avatar
 A next-generation AI avatar system enabling human-like interaction, multimodal communication, and conversational intelligence at scale.
 
 ---
