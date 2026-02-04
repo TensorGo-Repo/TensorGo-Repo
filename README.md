@@ -4,9 +4,10 @@
       <h1 style="margin:0;">TensorGo</h1>
     </td>
     <td align="right" style="white-space:nowrap; font-size:14px;">
-      <a href="https://url-one.com">URL One</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-      <a href="https://url-two.com">URL Two</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-      <a href="https://url-three.com">URL Three</a>
+      <strong>APIs:</strong>
+      <a href="https://url-one.com">Speech-to-Text (STT)</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+      <a href="https://url-two.com">Text-to-Speech (TTS)</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+      <a href="https://url-three.com">HumAIn Avatar</a>
     </td>
   </tr>
 </table>
